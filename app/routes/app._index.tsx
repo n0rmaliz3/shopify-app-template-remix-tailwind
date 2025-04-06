@@ -277,6 +277,13 @@ export default function Index() {
                         >
                           App Bridge
                         </Link>
+                        <Link
+                          url="https://tailwindcss.com/"
+                          target="_blank"
+                          removeUnderline
+                        >
+                          Tailwind css
+                        </Link>
                       </span>
                     </InlineStack>
                     <InlineStack align="space-between">

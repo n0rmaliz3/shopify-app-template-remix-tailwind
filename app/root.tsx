@@ -6,6 +6,8 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 
+import "./style.css"
+
 export default function App() {
   return (
     <html>
